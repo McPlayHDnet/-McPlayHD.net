@@ -11,7 +11,7 @@ The information I need to know is as follows (just direct messaging me (Worldbui
 After that, you will send me (Worldbuilder777#6131) some screenshots from past builds you made and based on that, the decision is made if you can participate in the next step to the application, an evaluation phase. There, you build a minigame map of your choice, without gaining any rank for the moment, in order to prevent too easy access to staff commands. Once we've decided based on those builds that you may be fit for the staff team, you will be allowed to enter the staff team as a Junior, meaning, we will assess how well you fit into the staff team and if you show the right behaviour for it.
 
 ### Evaluation Phase
-If you accept our terms, you will be granted access to the Testbuild/Evaluation server which you can reach by typing '/testbuild'. There, you will have as much time as you want to build a map and show your expertise as a builder. However, be warned that you may be wasting your time if we afterwards decide that your map isn't good enough. The map should preferrably be for one of the gamemodes we offer on the server, so if you have any questions to the requirements for those maps, message me (Worldbuilder777#6131) on Discord. We will judge the build based on the following categories:
+If you accept our terms, you will be granted access to the Testbuild/Evaluation server which you can reach by typing '/testbuild'. There, you will have as much time as you want to build a map and show your expertise as a builder. To create your own map, do '/create <name>'. However, be warned that you may be wasting your time if we afterwards decide that your map isn't good enough. The map should preferrably be for one of the gamemodes we offer on the server, so if you have any questions to the requirements for those maps, message me (Worldbuilder777#6131) on Discord. We will judge the build based on the following categories:
 - Structure
 - Terraforming
 - Detail
@@ -19,6 +19,9 @@ If you accept our terms, you will be granted access to the Testbuild/Evaluation 
 - Usage of Advanced Techniques/Plugins
 
 If you think you're done, message me on Discord, including the name you gave your map.
+
+### What makes a good Minigame map?
+The aesthetic is only one aspect of being Builder on a minigames server, the maps ought to be easily playable as well. For that, it is recommended to build rather flat surfaces to play on and not using ice as a floor. Furthermore, in games such as BedWars where you can place blocks, flowers, slabs, stairs and fences are all hindering the easy placement of blocks. Similarly, in modes where you can place blocks, you shouldn't worldedit in structures that can be destroyed by blockupdating them. Also, tall flowers/tall grass is annoying in almost any PvP circumstance since you can't hit through it. Lastly, large amounts of stained glass, as used in a fog effect maybe can make weaker PC setups have framedrops.
 
 ### Commands (Evaluation Phase)
 - `/testbuild` - Hop on the evaluation build server

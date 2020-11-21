@@ -6,7 +6,7 @@ The information I need to know is as follows (just direct messaging me (Worldbui
 - Your Age
 - Your Ingame Name
 - Your Time Zone
-- Knowledge of the Worldedit/Multiverse Plugins (yes/no)
+- Knowledge of the Worldedit Plugin (yes/no)
 
 After that, you will send me (Worldbuilder777#6131) some screenshots from past builds you made and based on that, the decision is made if you can participate in the next step to the application, an evaluation phase. There, you build a minigame map of your choice, without gaining any rank for the moment, in order to prevent too easy access to staff commands. Once we've decided based on those builds that you may be fit for the staff team, you will be allowed to enter the staff team as a Junior, meaning, we will assess how well you fit into the staff team and if you show the right behaviour for it.
 

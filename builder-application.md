@@ -55,7 +55,7 @@ However, being in the staff team also brings a lot of responsibilities with you.
 
 #### Duties of a Builder
 As a Builder specifically, as the rank implies, you will be working on maps, although we don't require you to be online consistently and there is no real work output we're aiming for. However, it will become apparent quite quickly whether you're actually involved in the server or just wanted to have a rank. On the other hand, your job is not Moderating, i.e. banning and muting players for misbehaviour, you don't have access to these commands since we separate the Building and Moderation fields.
-The maps you build will primarily be for our minigames. Once a Builder becomes more experienced, they will also be allowed to work on game lobbies, and even the main lobby.
+The maps you build will primarily be for our minigames. Once a Builder becomes more experienced, they will also be allowed to work on game lobbies, and eventually even the main lobby.
 
 ### Questions
 If anything is unclear, just ask me (Worldgenerator#6131) on Discord.

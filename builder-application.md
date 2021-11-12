@@ -2,16 +2,16 @@
 
 ### Application
 In order to receive the Builder rank, you first have to go through the three steps of the application process. The first one, the assessment on Discord, involves providing information about yourself as well as showing what you've built in the past.
-The information we need to know is as follows (just direct messaging me (Worldgenerator#6131) on Discord is sufficient):
+The information we need to know is as follows (just direct messaging me (Worldgenerator#0777) on Discord is sufficient):
 - Your Age
 - Your Ingame Name
 - Your Time Zone
 - Knowledge of the Worldedit Plugin (yes/no)
 
-After that, you will send me (Worldgenerator#6131) some screenshots from past builds you made and based on that, the decision is made if you can participate in the next step to the application, an evaluation phase. There, you build a minigame map of your choice, without gaining any rank for the moment, in order to prevent too easy access to staff commands. Once we've decided based on those builds that you may be fit for the staff team, you will be allowed to enter the staff team as a Junior, meaning, we will assess how well you fit into the staff team and if you show the right behaviour for it.
+After that, you will send me (Worldgenerator#0777) some screenshots from past builds you made and based on that, the decision is made if you can participate in the next step to the application, an evaluation phase. There, you build a minigame map of your choice, without gaining any rank for the moment, in order to prevent too easy access to staff commands. Once we've decided based on those builds that you may be fit for the staff team, you will be allowed to enter the staff team as a Junior, meaning, we will assess how well you fit into the staff team and if you show the right behaviour for it.
 
 ### Evaluation Phase
-If you accept our terms, you will be granted access to the Testbuild/Evaluation server which you can reach by typing `/testbuild`. There, you will have as much time as you want to build a map and show your expertise as a builder. Finding your own theme shows me that you have creative thought and don't need supervision to build. To create your own map, do `/create <name>`. However, be warned that you may be wasting your time if we afterwards decide that your map isn't good enough. Also, since the server is based in 1.8, you will not be able to work with any 1.9+ blocks. The map should preferrably be for one of the gamemodes we offer on the server, so if you have any questions to the requirements for those maps, message me (Worldgenerator#6131) on Discord. We will judge the build based on the following categories:
+If you accept our terms, you will be granted access to the Testbuild/Evaluation server which you can reach by typing `/testbuild`. There, you will have as much time as you want to build a map and show your expertise as a builder. Finding your own theme shows me that you have creative thought and don't need supervision to build. To create your own map, do `/create <name>`. However, be warned that you may be wasting your time if we afterwards decide that your map isn't good enough. Also, since the server is based in 1.8, you will not be able to work with any 1.9+ blocks. The map should preferrably be for one of the gamemodes we offer on the server, so if you have any questions to the requirements for those maps, message me (Worldgenerator#0777) on Discord. We will judge the build based on the following categories:
 
 - Structure
   - How playable is the map for its intended gamemode?
@@ -58,4 +58,4 @@ As a Builder specifically, as the rank implies, you will be working on maps, alt
 The maps you build will primarily be for our minigames. Once a Builder becomes more experienced, they will also be allowed to work on game lobbies, and eventually even the main lobby.
 
 ### Questions
-If anything is unclear, just ask me (Worldgenerator#6131) on Discord.
+If anything is unclear, just ask me (Worldgenerator#0777) on Discord.
